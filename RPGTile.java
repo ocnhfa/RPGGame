@@ -1,8 +1,8 @@
 import processing.core.*;
 
 class RPGTile {
-  static final int WIDTH = 96;
-  static final int HEIGHT = 96;
+  static final int WIDTH = 64;
+  static final int HEIGHT = 64;
   String image;
 
   RPGTile(String filename) {
